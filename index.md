@@ -16,7 +16,7 @@
 
 #### 지도 교수 : 박하명 교수님
 
-<img src="./image/정찬영.jpg" width="200">
+<img src="./image/정찬영.jpeg" width="200">
 
 <h4> 정찬영(팀장) </h4>
 <p>-20133259 <br>
